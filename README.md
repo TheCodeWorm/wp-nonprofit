@@ -1,2 +1,2 @@
 # wp-nonprofit
-donate nonprofit 
+nonprofit
