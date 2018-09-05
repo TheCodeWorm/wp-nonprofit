@@ -53,7 +53,7 @@
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-long-arrow-up"></span></div>
 
-		<p class="animated zoomIn myfooter" style="font-size: 12px; text-align: center; animation-delay: 2.0s;"><?php _e( '<a href = "//www.theguardianfoundationbhc.org/">The Guardian Foundation</a> &#169; '.date('Y'),""); ?> <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>.</p>
+		<p class="animated zoomIn myfooter" style="font-size: 12px; text-align: center; animation-delay: 2.0s;"><?php _e( '<a href = "//www.theguardianfoundationbhc.org/"></a> &#169; '.date('Y'),""); ?> <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>.</p>
 
 <?php wp_footer(); ?>
 </body>
