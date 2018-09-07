@@ -46,3 +46,11 @@
 [10-Jul-2018 15:36:59 UTC] PHP Warning:  getimagesize(/home/thecozwf/gotomyreview.com/theguardianfoundationbhc/wp-content/uploads/revslider/objects/misty_farm.jpg): failed to open stream: No such file or directory in /home/thecozwf/gotomyreview.com/theguardianfoundationbhc/wp-content/plugins/revslider/includes/object-library.class.php on line 964
 [10-Jul-2018 15:36:59 UTC] PHP Warning:  getimagesize(/home/thecozwf/gotomyreview.com/theguardianfoundationbhc/wp-content/uploads/revslider/objects/mountain_view.jpg): failed to open stream: No such file or directory in /home/thecozwf/gotomyreview.com/theguardianfoundationbhc/wp-content/plugins/revslider/includes/object-library.class.php on line 964
 [10-Jul-2018 15:37:00 UTC] PHP Warning:  getimagesize(/home/thecozwf/gotomyreview.com/theguardianfoundationbhc/wp-content/uploads/revslider/objects/mountain_view_4.jpg): failed to open stream: No such file or directory in /home/thecozwf/gotomyreview.com/theguardianfoundationbhc/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[07-Sep-2018 14:23:31 UTC] activate
+[07-Sep-2018 14:23:31 UTC] before environmental checks
+[07-Sep-2018 14:23:31 UTC] after environmental checks
+[07-Sep-2018 14:23:31 UTC] before dbdelta
+[07-Sep-2018 14:23:31 UTC] after dbdelta
+[07-Sep-2018 14:23:31 UTC] after table insertion
+[07-Sep-2018 14:23:31 UTC] current version is null
+[07-Sep-2018 17:44:53 UTC] DUP PRO:license key is empty on uninstall!
