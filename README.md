@@ -1,2 +1,2 @@
-# wp-nonprofit
-nonprofit
+# wp nonprofit
+nonprofit org
